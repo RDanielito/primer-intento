@@ -22,7 +22,7 @@ p {
 .circulo {
     height: 50px;
     width: 50px;
-    background-color: violet;
+    background-color: goldenrod;
     margin: 20px auto;
     border-radius: 50%;
 }
